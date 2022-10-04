@@ -5,3 +5,4 @@ node_modules/
 secrets.ts
 tests-examples
 tests/example.spec.ts
+storageState.json
