@@ -3,5 +3,5 @@ node_modules/
 /playwright-report/
 /playwright/.cache/
 secrets.ts
-test-examples
+tests-examples
 tests/example.spec.ts
